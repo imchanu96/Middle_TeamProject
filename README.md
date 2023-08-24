@@ -165,3 +165,7 @@ naver notice board
 
 <br>
 <br>
+<p>버전</p>
+java : 1.8
+tomcat : 8.0
+html versoin5
