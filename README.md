@@ -168,4 +168,4 @@ naver notice board
 <p>버전</p>
 java : 1.8
 tomcat : 8.0
-html versoin5
+html : versoin5
