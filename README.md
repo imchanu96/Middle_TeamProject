@@ -2,7 +2,7 @@
 naver notice board
 
 
-### 중간팀프로젝트(네이버 로그인 회원가입 및 게시판구현) 👨‍💻
+### 중간 팀프로젝트(네이버 로그인 회원가입 및 게시판구현) 👨‍💻
 
 <br />
 
@@ -58,7 +58,7 @@ naver notice board
 				<td align="center">게시판(리스트, 페이징 기능)</td>
 				<td rowspan="4" align="center">로그아웃시 세션 종료</td>
 				<td rowspan="4" align="center">페이지마다 적용되는 Header,Footer 구현</td>
-				<td rowspan="4" align="center">깃허브 정보및 데이터 관리</td>
+				<td rowspan="4" align="center">깃허브 정보 및 데이터 관리</td>
 			</tr>
 			<tr>
 				<td align="center">게시글(추가, 수정, 검색 기능)</td>
@@ -76,37 +76,52 @@ naver notice board
 			<td colspan="3" width=1013px; align="center"><b>●박지훈</b></td>
 		</tr>
 		<tr>
-			<td width=30%; align="center"><b>담당 기능</b></td>
+			<td width=20%; align="center"><b>담당 기능</b></td>
 			<td width=60%; align="center"><b>회원 가입</b></td>
-			<td width=30%; align="center"><b>Github</b></td>
+			<td width=20%; align="center"><b>Github</b></td>
 		</tr>
 		<tr>
 			<td rowspan="4" align="center"><b>주요 기능</b></td>
-			<td align="center">회원 가입 UI구현</td>
-			<td rowspan="4" align="center">깃허브 정보및 데이터 관리</td>
+			<td align="center">회원 가입 - 약관 동의 UI구현</td>
+			<td rowspan="4" align="center">깃허브 정보 및 데이터 관리</td>
 		</tr>
 		<tr>
-			<td align="center">회원 가입 UI구현</td>
+			<td align="center">회원 가입 - 정보 입력 UI구현</td>
 		</tr>
 		<tr>
-			<td align="center">약관 동의여부에 대한 유효성과 가입 정보에 대한 유효성 검사 구현</td>
+			<td align="center">약관 동의여부와 가입 정보에 대한 유효성 검사 구현</td>
 		</tr>
 		<tr>
-			<td align="center">가입 정보 DB와 연동하여 회원정보 추가</td>
+			<td align="center">가입 정보를 회원정보DB와 연동하여 추가</td>
 		</tr>
 	</table>
    <table float="left;">
 		<tr>
-			<td colspan="3" width=1013px; align="center"><b>●이현수</b></td>
+			<td colspan="4" width=1013px; align="center"><b>●이현수</b></td>
 		</tr>
 		<tr>
-			<td rowspan="2" width="20%" align="center"><b>담당 기능</b></td>
-			<td width="60%" align="center"><b>로그인</b></td>
-			<td width="20%" align="center">Github</td>
+			<td  width="10%" align="center"><b>담당 기능</b></td>
+			<td width="40%" align="center"><b>로그인</b></td>
+			<td width="40%" align="center"><b>아이디/비밀번호 찾기</b></td>
+			<td width="10%" align="center">Github</td>
 		</tr>
 		<tr>
-			<td align="center"><b>아이디 비밀번호 찾기</b></td>
-			<td align="center">깃허브 정보및 데이터 관리</td>
+			<td rowspan="4" align="center"><b>메인 화면 UI 구현</b></td>
+			<td align="center"><b>메인 화면 UI 구현</b></td>
+			<td align="center"><b>화면 UI 구현</b></td>
+			<td rowspan="4" align="center">깃허브 정보 및 데이터 관리</td>
+		</tr>
+	  	<tr>
+			<td align="center"><b>회원 DB와 연동하여 로그인 기능 구현</b></td>
+			<td align="center"><b>회원 DB와 연동하여 아이디 찾기 기능 구현</b></td>
+		</tr>
+	   	<tr>
+			<td align="center"><b>게시판 연동(로그인 Session 정보 전달)</b></td>
+			<td align="center"><b>회원 DB와 연동하여 비밀번호 찾기 기능 구현</b></td>
+		</tr>
+	  	 <tr>
+			<td align="center"><b>회원가입 화면 이동</b></td>
+			<td align="center"><b>메인 화면 이동</b></td>
 		</tr>
 	</table>
 </div>
@@ -150,3 +165,7 @@ naver notice board
 
 <br>
 <br>
+<p>버전</p>
+java : 1.8
+tomcat : 8.0
+html : versoin5
