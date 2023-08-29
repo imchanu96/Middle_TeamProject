@@ -15,14 +15,16 @@
 			margin-top: 4px; 
  			margin-right: 18px;
 			padding-left: 50px;
-			width: 400px;
-			height: 50px;
+			margin-left: -15px;
+			width: 420px;
+			height: 60px;
 			background-image: url('../images/loginById.PNG');
 			background-repeat: no-repeat;
 			background-size: 20px;
 			background-position: left;
 			border-style: 1px solid;
-			border-color: gray;		
+			border-color: gray;
+			border-radius: 5px;	
 			}
 		#next{
 			font-size:20px;
@@ -38,7 +40,9 @@
 		#remember{
 			padding-right: 10px;
 		}
-		
+		.inheader{
+			margin-left: 130px;
+		}
 	</style>
 	
 	<script type="text/javascript">
@@ -51,9 +55,11 @@
 	 <br>
 	 <br>
 	 <br>
-	 <div>비밀번호를 찾고자하는 아이디를 입력해주세요.</div>
+	 <div style="font-weight: bold; margin-left: 30px; font-size: 18px;">
+	 비밀번호를 찾고자하는 아이디를 입력해주세요.
+	 </div>
 </head>
-<body>
+<body style="margin-left: 740px; margin-top: 100px;">
 	<br>
 	<br>
 	<br>
